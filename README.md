@@ -334,7 +334,3 @@ if __name__ == "__main__":
 tf.nn module:<br>
 https://www.tensorflow.org/api_docs/python/tf/nn<br>
 CIFAR10 dataset:<br>
-https://www.cs.toronto.edu/~kriz/cifar.html<br>
-
-<h3>For more info.</h3>
-KDnuggets: https://www.kdnuggets.com/author/ahmed-gad<br>LinkedIn: https://www.linkedin.com/in/ahmedfgad<br>Facebook: https://www.facebook.com/ahmed.f.gadd<br>ahmed.f.gad@gmail.com<br>ahmed.fawzy@ci.menofia.edu.eg
